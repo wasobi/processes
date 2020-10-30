@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['data_1',['Data',['../struct_data.html',1,'Data'],['../data__processing_8h.html#a3c7d12d60eadd3cf10e7096978320302',1,'Data():&#160;data_processing.h']]],
+  ['data_5fprocessing_2eh_2',['data_processing.h',['../data__processing_8h.html',1,'']]],
+  ['data_5fprocessing_5fbuild_5ftasklist_3',['data_processing_build_tasklist',['../data__processing_8h.html#a28e4b922389273c8c0af046459b2df05',1,'data_processing.h']]],
+  ['data_5fprocessing_5fcompare_4',['data_processing_compare',['../data__processing_8h.html#adca181824b930011dc43b867e758f155',1,'data_processing.h']]],
+  ['data_5fprocessing_5ffetch_5fsorter_5fdata_5',['data_processing_fetch_sorter_data',['../data__processing_8h.html#a28119ea4f05c75944976d196ab0068c0',1,'data_processing.h']]],
+  ['data_5fprocessing_5fread_5ffile_6',['data_processing_read_file',['../data__processing_8h.html#ab6505fbb48f2a71496e5102b1a59593b',1,'data_processing.h']]],
+  ['dispatcher_2eh_7',['dispatcher.h',['../dispatcher_8h.html',1,'']]],
+  ['dispatcher_5fdistribute_8',['dispatcher_distribute',['../dispatcher_8h.html#ab5d893b99ec3ea608d25dfebf84d3469',1,'dispatcher.h']]],
+  ['dispatcher_5ffetch_5fcatalog_9',['dispatcher_fetch_catalog',['../dispatcher_8h.html#a179996f351860341b76a8a018c2f3a0f',1,'dispatcher.h']]],
+  ['dispatcher_5fget_5ffile_5fcount_10',['dispatcher_get_file_count',['../dispatcher_8h.html#a3dc70758d806ab99f51c91b807f10a14',1,'dispatcher.h']]],
+  ['dispatcher_5fis_5fvalid_5ffile_11',['dispatcher_is_valid_file',['../dispatcher_8h.html#a4fa2b973e09598b102560b7f731110ed',1,'dispatcher.h']]],
+  ['dispatcher_5fprocess_12',['dispatcher_process',['../dispatcher_8h.html#ad03d22af90cb315e7c2b56a0757214b1',1,'dispatcher.h']]],
+  ['distributor_2eh_13',['distributor.h',['../distributor_8h.html',1,'']]],
+  ['distributor_5fadd_5felement_5fto_5flist_14',['distributor_add_element_to_list',['../distributor_8h.html#a3c254b41839ac54e9a82c6225ebb4e05',1,'distributor.h']]],
+  ['distributor_5fbuild_5fpath_15',['distributor_build_path',['../distributor_8h.html#a72ff7b7264a81d80cfbaa062a51c8ade',1,'distributor.h']]],
+  ['distributor_5fbuild_5ftask_5flist_16',['distributor_build_task_list',['../distributor_8h.html#ae8754f9b3a4684fbb8727aaa17903565',1,'distributor.h']]],
+  ['distributor_5fcount_5fdigits_17',['distributor_count_digits',['../distributor_8h.html#aef33322fb2da89d4b6785e3e24334337',1,'distributor.h']]],
+  ['distributor_5fwrite_5ftasklist_5fto_5ffile_18',['distributor_write_tasklist_to_file',['../distributor_8h.html#a0d39b09eaf1941b2b7ab571493254765',1,'distributor.h']]]
+];
